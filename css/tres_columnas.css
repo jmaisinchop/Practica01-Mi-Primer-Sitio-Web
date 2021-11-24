@@ -66,23 +66,12 @@ article {
 ]
 /*Hacer la Galeria*/
 .galeria {
-    width: 90%;
-    margin: auto;
-    list-style: none;
-    padding: 20px;
-    box-sizing: border-box;
 
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+
+
   }
-  .galeria li {
-    margin: 5px;
-  }
-  .galeria img {
-    width: 350px;
-    height: 300px;
-  }
+
+
   /*Nav Horizontal*/
 nav.horizontal ul li {
     display: table-cell;
@@ -121,14 +110,7 @@ section#team75 img{
     border-color: black;
     align-items: center;
 }
-aside#otras img{
-    width: 180px;
-    height: 200px;
-    border-radius: 30px;
-    border-style: solid;
-    border-color: black;
-    align-items: center;
-}
+
 .BotonS{
     display: flex;
     justify-content: center;
