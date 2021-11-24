@@ -63,8 +63,7 @@ article {
 }
 
 
-]
-/*Hacer la Galeria*/
+
 .galeria {
 
 
@@ -102,7 +101,7 @@ nav.horizontal a {
     color: white;
 }
 /*-------------------------------------------*/
-section#team75 img{
+section.team75 img{
     width: 383px;
     height: 350px;
     border-radius: 30px;

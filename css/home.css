@@ -47,31 +47,8 @@ a{
     font-size: larger;
 }
 /*Div del Home*/
-div{
-    width: 100%;
-    text-align: right;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    background-color: black;
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
-}
 
-section img{
-    display:inline;
-    width: 200px;
-    height: 230px;
-    border-style: solid;
-    border-radius: 50px ;
-    border-color: black;
-    margin: 5px;
-		align-content: right;
-}
-section a{
-    text-align: center;
-    align-items: center;
-    color: black;
-}
+
 h1{
     text-align:center;
 		color: white;
